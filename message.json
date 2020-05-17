@@ -5,6 +5,11 @@
     "msg": "খুশি থাকুন এবং হাসতে থাকুন"
   },
   {
+    "id": "de",
+    "lang": "German",
+    "msg": "bleib glücklich und lächle weiter"
+  },
+  {
     "id": "en",
     "lang": "English",
     "msg": "stay happy and keep smiling"
@@ -15,6 +20,11 @@
     "msg": "ખુશ રહો અને હસતાં રહો"
   },
   {
+    "id": "he",
+    "lang": "Hebrew",
+    "msg": "הישאר מאושר והמשיך לחייך"
+  },
+  {
     "id": "hi",
     "lang": "Hindi",
     "msg": "खुश रहो और मुस्कुराते रहो"
@@ -23,6 +33,11 @@
     "id": "kn",
     "lang": "Kannada",
     "msg": "ಸಂತೋಷವಾಗಿರಿ ಮತ್ತು ನಗುತ್ತಾ ಇರಿ"
+  },
+  {
+    "id": "ko",
+    "lang": "Korean",
+    "msg": "행복을 유지하고 계속 웃어 라"
   },
   {
     "id": "mr",
