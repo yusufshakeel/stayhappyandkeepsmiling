@@ -15,6 +15,11 @@
     "msg": "bleib glücklich und lächle weiter"
   },
   {
+    "id": "el",
+    "lang": "Greek",
+    "msg": "μείνε χαρούμενος και συνεχίστε να χαμογελάτε"
+  },
+  {
     "id": "en",
     "lang": "English",
     "msg": "stay happy and keep smiling"
