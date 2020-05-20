@@ -1,2 +1,2 @@
 # stayhappyandkeepsmiling
-This project contains stayhappyandkeepsmiling phase in different languages.
+This project contains stayhappyandkeepsmiling phrase in different languages.
